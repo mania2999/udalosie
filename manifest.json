@@ -1,0 +1,17 @@
+{
+    "name": "zajebisty kalkulator",
+    "short_name": "kalkulator",
+    "icons": [
+      {
+        "src": "taktak.png",
+        "sizes": "256x256",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/udalosie/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
